@@ -1,0 +1,13 @@
+T0 = 298 #Température extèrieure
+Tad = 1200 #Température adiabatique
+L = 0.2 #Longueur du cylindre en metre
+R = 0.05 #Rayon cylindre en metre
+cp1 =   #Capacité thermique matériau 1
+cp2 =   #Capacité thermique matériau 2
+m = 2 #Ordre de la réaction
+rho1 = 1500 #masse volumique 1 (kg.m-3)
+rho2 = 1500 #masse volumique 2
+lambda1 = 1500 #conductivité thermique 1 (W.m-1.K-1)
+lambda2 = 1500 #conductivité thermique 2
+Ea = 15454 #energie d'activation (J)
+po = 512 #porosité (%)
